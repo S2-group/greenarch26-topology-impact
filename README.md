@@ -17,7 +17,7 @@ If this replication package is helping your research, consider citing it as foll
     title = {{An Empirical Study on How Architectural Topology Affects Microservice Performance and Energy Usage}},
     author = {{Irena Ristova, Vincenzo Stoico}},
     year = {2026},
-    publisher = {Software and Sustainability group, Vrije Universiteit Amsterdam},
+    publisher = {GreenArch 2026: The First International Workshop on Software Architecture for Green Sustainable Carbon-aware Software Systems},
     url = {https://github.com/S2-group/greenarch26-topology-impact},
     note = {Accessed: 2026-03-27}
 }
