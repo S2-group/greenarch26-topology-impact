@@ -14,20 +14,20 @@ If this replication package is helping your research, consider citing it as foll
 
 ```
 @misc{ReplicationPackage,
-    title = {{Replication Package}},
-    author = {{Anonymous}},
+    title = {{An Empirical Study on How Architectural Topology Affects Microservice Performance and Energy Usage}},
+    author = {{Irena Ristova, Vincenzo Stoico}},
     year = {2026},
-    publisher = {GitHub},
-    url = {https://anonymous.4open.science/r/topology-scale-mubench-replication-DF65/README.md},
-    note = {Accessed: 2026-02-20}
+    publisher = {Software and Sustainability group, Vrije Universiteit Amsterdam},
+    url = {https://github.com/S2-group/greenarch26-topology-impact},
+    note = {Accessed: 2026-03-27}
 }
 ```
 
-*(Update the `note` field with your date of access when citing.)*
+_(Update the `note` field with your date of access when citing.)_
 
 ---
 
-## Section 3: Experiment Planning 
+## Section 3: Experiment Planning
 
 The material that corresponds to **Section 3** of the paper (experiment planning: topologies, workmodels, service graphs) is contained in **`4_experiment_execution/`**:
 
